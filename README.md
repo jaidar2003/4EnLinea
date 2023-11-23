@@ -18,7 +18,7 @@
       <li>Clone the repository using: <code>git clone https://github.com/jaidar2003/4EnLinea.git</code></li>
       <li>Navigate to the repository: <code>cd /.../jaidar2003/4EnLinea</code></li>
       <li>Build the Docker image: <code>docker build -t image_name</code> (in the name of the image give it whatever name you want, I called it cd1a61941a13)</li>
-      <li>Run Docker image: <code>docker run -it image_name</code> (In my case it would be: <code>docker run -it cd1a61941a13 </code>)</li>
+      <li>Run Docker image: <code>docker run -it image_name</code> </li>
     </ol>
   </div>
   <p> PROYECTO EN PROCESO </p>
