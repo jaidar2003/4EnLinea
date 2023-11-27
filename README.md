@@ -24,3 +24,7 @@
   <p> PROYECTO EN PROCESO </p>
 </body>
 </html>
+
+| _*Codeclimate*_ | *_Coverage_* | *_Maintainability_* |
+| :---:   | :---:   | :---: |
+| Status |[![Test Coverage](https://api.codeclimate.com/v1/badges/4b3b94312771c575c241/test_coverage)](https://codeclimate.com/github/jaidar2003/4EnLinea/test_coverage) | [![Maintainability](https://api.codeclimate.com/v1/badges/4b3b94312771c575c241/maintainability)](https://codeclimate.com/github/jaidar2003/4EnLinea/maintainability)
